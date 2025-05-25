@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">I'm a passionate co-op computer engineering student.</h3>
 
-- 🔭 I’m currently working on **a Google Drive Clone With React**
+- 🔭 I’m currently working on **a USB Drive with a custom compression algorithm**
 
 - 🌱 I’m currently learning **Machine Learning & DevOps Engineering**
 
 - 👯 I’m looking to collaborate on **a miscellaneous Machine Learning project**
 
-- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
+- 👨‍💻 All of my projects are available at djanservice.gabrieldigitprint.work
 
 - 💬 Ask me about **django framework, security engineering, network engineering, full-stack development, and more!**
 
