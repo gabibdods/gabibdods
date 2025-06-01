@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">I'm a passionate co-op computer engineering student.</h3>
+<h3 align="center">I'm a dedicated co-op computer engineering student.</h3>
 
 - 🔭 I’m currently working on **a USB Drive with a custom compression algorithm**
 
