@@ -92,4 +92,6 @@
     </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabibdods&show_icons=true&locale=en&layout=compact" alt="gabibdods" width="70%"/></p>
+<h1>I am finishing up my personal Git Service and Repository hosting server, so for a little while, all my projects will be unavailable until the hosting server is operational and secured.</h1>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabibdods&show_icons=true&locale=en&layout=compact" alt="gabibdods" width="40%"/></p>
